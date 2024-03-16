@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi there! I am Mikhail</h1>
+<h1 align="left">Hi there! My name is Mikhail</h1>
 <br>
 <div align="left">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjEyeWtxcHM3NGU2YjY1azg2cjBmN2N1eXdodWYxeHZ0MjRyY2RhbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lRLzrbhmh5pFf4jOga/giphy.gif" width="100" height="100" />
