@@ -7,7 +7,7 @@
 <h2 align="left">I'm a frontend developer</h2>
 
 ## About
-- My projects are available on [my portfolio website.](https://notMikle.github.io/Portfolio/)
+- My projects are available on [my portfolio website.](https://portfolio-nine-vert-73.vercel.app/)
 - You can contact me at [st1ffmaster95@mail.ru](mailto:st1ffmaster95@mail.ru)
 - Open to new opportunities as a frontend developer
 ---
